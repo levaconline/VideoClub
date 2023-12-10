@@ -1,0 +1,295 @@
+[Root]
+Most Recent Package=Standard Setup Package WinVideo1
+
+
+[Package|Standard Setup Package WinVideo1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Program Files\WinVideo\Pakages1
+
+[Package|Standard Setup Package WinVideo1|Configure DAO ISAMs]
+Applicable=Yes
+Lotus=Yes
+Exchange=Yes
+Text=Yes
+Paradox=Yes
+Excel=Yes
+Xbase=Yes
+Jet 2.x=Yes
+
+[Package|Standard Setup Package WinVideo1|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Standard Setup Package WinVideo1|Files Found]
+1.AVI=C:\Program Files\WinVideo\Clips\1.AVI
+1.jpg=C:\Program Files\WinVideo\Pictures\1.jpg
+Clan.dot=C:\Program Files\WinVideo\Data\Clan.dot
+10.jpg=C:\Program Files\WinVideo\Pictures\10.jpg
+2.mp3=C:\Program Files\WinVideo\Clips\2.mp3
+Clanovi.rtf=C:\Program Files\WinVideo\Data\Clanovi.rtf
+
+[Package|Standard Setup Package WinVideo1|Files Released]
+
+[Package|Standard Setup Package WinVideo1|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\MSEXCH35.DLL=
+C:\Program Files\Common Files\SYSTEM\ADO\MSADOMD.DLL=
+C:\Program Files\Microsoft Office\Office\MSWORD9.OLB=
+
+[Package|Standard Setup Package WinVideo1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package WinVideo1|Files Added]
+clan.dot=
+clanovi.rtf=
+film.dot=
+imekluba.rtf=
+videoclub.mdb=
+1.avi=
+2.mp3=
+3.mid=
+1.jpg=
+10.jpg=
+2.jpg=
+3.jpg=
+4.jpg=
+5.jpg=
+6.jpg=
+7.jpg=
+8.jpg=
+9.jpg=
+11.jpg=
+12.jpg=
+
+[Package|Standard Setup Package WinVideo1|Files Removed]
+
+[Package|Standard Setup Package WinVideo1|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJET35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=Yes
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=Yes
+C:\WINDOWS\SYSTEM\EXPSRV.DLL=Yes
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\SYSTEM\VB5DB.DLL=Yes
+C:\WINDOWS\SYSTEM\MSBIND.DLL=Yes
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=Yes
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=Yes
+C:\Program Files\Microsoft Office\Office\MSWORD9.OLB=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=Yes
+C:\WINDOWS\SYSTEM\MSADODC.OCX=Yes
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM\DBLIST32.OCX=Yes
+C:\Program Files\Common Files\Designer\MSCDRUN.DLL=Yes
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=Yes
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=Yes
+C:\WINDOWS\SYSTEM\MSDBRPTR.DLL=Yes
+C:\Program Files\Common Files\SYSTEM\ADO\MSADOMD.DLL=Yes
+C:\WINDOWS\SYSTEM\MSEXCL35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSEXCH35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSLTUS35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\WINDOWS\SYSTEM\MSPDOX35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSTEXT35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSXBSE35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\WinVideo\Video Club.exe=Yes
+C:\Program Files\WinVideo\Data\Clan.dot=Yes
+C:\Program Files\WinVideo\Data\Clanovi.rtf=Yes
+C:\Program Files\WinVideo\Data\Film.dot=Yes
+C:\Program Files\WinVideo\Data\ImeKluba.rtf=Yes
+C:\Program Files\WinVideo\Data\VideoClub.mdb=Yes
+C:\Program Files\WinVideo\Clips\1.AVI=Yes
+C:\Program Files\WinVideo\Clips\2.mp3=Yes
+C:\Program Files\WinVideo\Clips\3.mid=Yes
+C:\Program Files\WinVideo\Pictures\1.jpg=Yes
+C:\Program Files\WinVideo\Pictures\10.jpg=Yes
+C:\Program Files\WinVideo\Pictures\2.jpg=Yes
+C:\Program Files\WinVideo\Pictures\3.jpg=Yes
+C:\Program Files\WinVideo\Pictures\4.jpg=Yes
+C:\Program Files\WinVideo\Pictures\5.jpg=Yes
+C:\Program Files\WinVideo\Pictures\6.jpg=Yes
+C:\Program Files\WinVideo\Pictures\7.jpg=Yes
+C:\Program Files\WinVideo\Pictures\8.jpg=Yes
+C:\Program Files\WinVideo\Pictures\9.jpg=Yes
+C:\Program Files\WinVideo\Pictures\11.jpg=Yes
+C:\Program Files\WinVideo\Pictures\12.jpg=Yes
+
+[Package|Standard Setup Package WinVideo1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package WinVideo1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package WinVideo1|Install Locations]
+C:\Programs\WinVideo\Video Club.exe=$(WinPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\EXPSRV.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Program Files\Microsoft Office\Office\MSWORD9.OLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\DBLIST32.OCX=$(WinSysPath)
+C:\Program Files\Common Files\Designer\MSCDRUN.DLL=$(CommonFiles)\Designer
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDBRPTR.DLL=$(WinSysPath)
+C:\Program Files\Common Files\SYSTEM\ADO\MSADOMD.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSEXCL35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSEXCH35.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSLTUS35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\MSPDOX35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Programs\WinVideo\Data\Clan.dot=$(WinPath)
+C:\Programs\WinVideo\Data\Clanovi.rtf=$(WinPath)
+C:\Programs\WinVideo\Data\Film.dot=$(WinPath)
+C:\Programs\WinVideo\Data\ImeKluba.rtf=$(WinPath)
+C:\Programs\WinVideo\Data\VideoClub.mdb=$(WinPath)
+C:\Programs\WinVideo\Clips\1.AVI=$(AppPath)
+C:\Programs\WinVideo\Clips\2.mp3=$(AppPath)
+C:\Programs\WinVideo\Clips\3.mid=$(WinPath)
+C:\Programs\WinVideo\Pictures\1.jpg=$(AppPath)
+C:\Programs\WinVideo\Pictures\10.jpg=$(AppPath)
+C:\Programs\WinVideo\Pictures\2.jpg=$(AppPath)
+C:\Programs\WinVideo\Pictures\3.jpg=$(AppPath)
+C:\Programs\WinVideo\Pictures\4.jpg=$(WinPath)
+C:\Programs\WinVideo\Pictures\5.jpg=$(WinPath)
+C:\Programs\WinVideo\Pictures\6.jpg=$(WinPath)
+C:\Programs\WinVideo\Pictures\7.jpg=$(WinPath)
+C:\Programs\WinVideo\Pictures\8.jpg=$(WinPath)
+C:\Programs\WinVideo\Pictures\9.jpg=$(WinPath)
+C:\Programs\WinVideo\Pictures\11.jpg=$(AppPath)
+C:\Programs\WinVideo\Pictures\12.jpg=$(AppPath)
+C:\Program Files\WinVideo\Video Club.exe=$(AppPath)
+C:\Program Files\WinVideo\Data\Clan.dot=$(AppPath)\Data
+C:\Program Files\WinVideo\Data\Clanovi.rtf=$(AppPath)\Data
+C:\Program Files\WinVideo\Data\Film.dot=$(AppPath)\Data
+C:\Program Files\WinVideo\Data\ImeKluba.rtf=$(AppPath)\Data
+C:\Program Files\WinVideo\Data\VideoClub.mdb=$(AppPath)\Data
+C:\Program Files\WinVideo\Clips\1.AVI=$(AppPath)\Clips
+C:\Program Files\WinVideo\Clips\2.mp3=$(AppPath)\Clips
+C:\Program Files\WinVideo\Clips\3.mid=$(AppPath)\Clips
+C:\Program Files\WinVideo\Pictures\1.jpg=$(AppPath)\Pictures
+C:\Program Files\WinVideo\Pictures\10.jpg=$(AppPath)\Pictures
+C:\Program Files\WinVideo\Pictures\2.jpg=$(AppPath)\Pictures
+C:\Program Files\WinVideo\Pictures\3.jpg=$(AppPath)\Pictures
+C:\Program Files\WinVideo\Pictures\4.jpg=$(AppPath)\Pictures
+C:\Program Files\WinVideo\Pictures\5.jpg=$(AppPath)\Pictures
+C:\Program Files\WinVideo\Pictures\6.jpg=$(AppPath)\Pictures
+C:\Program Files\WinVideo\Pictures\7.jpg=$(AppPath)\Pictures
+C:\Program Files\WinVideo\Pictures\8.jpg=$(AppPath)\Pictures
+C:\Program Files\WinVideo\Pictures\9.jpg=$(AppPath)\Pictures
+C:\Program Files\WinVideo\Pictures\11.jpg=$(AppPath)\Pictures
+C:\Program Files\WinVideo\Pictures\12.jpg=$(AppPath)\Pictures
+
+[Package|Standard Setup Package WinVideo1|Configure Shared Files]
+Applicable=Yes
+C:\Programs\WinVideo\Video Club.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Programs\WinVideo\Data\Clan.dot=No
+C:\Programs\WinVideo\Data\Clanovi.rtf=No
+C:\Programs\WinVideo\Data\Film.dot=No
+C:\Programs\WinVideo\Data\ImeKluba.rtf=No
+C:\Programs\WinVideo\Data\VideoClub.mdb=No
+C:\Programs\WinVideo\Clips\1.AVI=No
+C:\Programs\WinVideo\Clips\2.mp3=No
+C:\Programs\WinVideo\Clips\3.mid=No
+C:\Programs\WinVideo\Pictures\1.jpg=No
+C:\Programs\WinVideo\Pictures\10.jpg=No
+C:\Programs\WinVideo\Pictures\2.jpg=No
+C:\Programs\WinVideo\Pictures\3.jpg=No
+C:\Programs\WinVideo\Pictures\4.jpg=No
+C:\Programs\WinVideo\Pictures\5.jpg=No
+C:\Programs\WinVideo\Pictures\6.jpg=No
+C:\Programs\WinVideo\Pictures\7.jpg=No
+C:\Programs\WinVideo\Pictures\8.jpg=No
+C:\Programs\WinVideo\Pictures\9.jpg=No
+C:\Programs\WinVideo\Pictures\11.jpg=No
+C:\Programs\WinVideo\Pictures\12.jpg=No
+C:\Program Files\WinVideo\Video Club.exe=No
+C:\Program Files\WinVideo\Data\Clan.dot=No
+C:\Program Files\WinVideo\Data\Clanovi.rtf=No
+C:\Program Files\WinVideo\Data\Film.dot=No
+C:\Program Files\WinVideo\Data\ImeKluba.rtf=No
+C:\Program Files\WinVideo\Data\VideoClub.mdb=No
+C:\Program Files\WinVideo\Clips\1.AVI=No
+C:\Program Files\WinVideo\Clips\2.mp3=No
+C:\Program Files\WinVideo\Clips\3.mid=No
+C:\Program Files\WinVideo\Pictures\1.jpg=No
+C:\Program Files\WinVideo\Pictures\10.jpg=No
+C:\Program Files\WinVideo\Pictures\2.jpg=No
+C:\Program Files\WinVideo\Pictures\3.jpg=No
+C:\Program Files\WinVideo\Pictures\4.jpg=No
+C:\Program Files\WinVideo\Pictures\5.jpg=No
+C:\Program Files\WinVideo\Pictures\6.jpg=No
+C:\Program Files\WinVideo\Pictures\7.jpg=No
+C:\Program Files\WinVideo\Pictures\8.jpg=No
+C:\Program Files\WinVideo\Pictures\9.jpg=No
+C:\Program Files\WinVideo\Pictures\11.jpg=No
+C:\Program Files\WinVideo\Pictures\12.jpg=No
+
+[Package|Standard Setup Package WinVideo1|Distribution]
+Type=single
+Size=
+Title=WinVideo
+
+[Package|Standard Setup Package WinVideo1|IconGroups]
+Group0=WinVideo
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package WinVideo1|WinVideo]
+Icon1="Video Club.exe"
+Title1=WinVideo
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package WinVideo1|Package]
+PackageFolder=C:\Program Files\WinVideo\Pakages1
+ProjectFolder=C:\Program Files\WinVideo
+ServerSideCab=
+File1=C:\Program Files\WinVideo\Pakages1\setup.exe
+File2=C:\Program Files\WinVideo\Pakages1\Setup.Lst
+File3=C:\Program Files\WinVideo\Pakages1\Video Club.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
